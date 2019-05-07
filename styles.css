@@ -280,6 +280,11 @@ padding-top: 100px;
 
 .abouttext{font-size: 20px;
 padding-left: 50px;
-padding-right: 50px;}
+padding-right: 50px;
+font-family: 'Roboto', sans-serif;
+}
 
+.projecttext{font-size: 20px;
+font-family: 'Roboto', sans-serif;}
 .skilll{top: 500px;}
+
