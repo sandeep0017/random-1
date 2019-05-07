@@ -122,6 +122,21 @@ position: absolute;
 padding-top: 27px;
 right: 240px;}
 
+.contact:hover{color: #32dbc6;
+}
+.education:hover{color: #32dbc6;
+}
+.project:hover{color: #32dbc6;
+}
+.experience:hover{color: #32dbc6;
+}
+.skill:hover{color: #32dbc6;
+}
+.about:hover{color: #32dbc6;
+}
+.home:hover{color: #32dbc6;
+}
+
 .div2{background-color: white;
   position: relative;
   top: 80;
